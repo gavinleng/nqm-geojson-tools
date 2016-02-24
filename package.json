@@ -1,0 +1,23 @@
+{
+  "name": "nqm-geojson-tools",
+  "version": "0.0.4",
+  "description": "The geojson tools of nqm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinleng/nqm-geojson-tools.git"
+  },
+  "keywords": [
+    "geojson"
+  ],
+  "author": "gleng",
+  "license": "ISC",
+  "dependencies": {
+    "geojson-bbox": "~0.0.0",
+    "geojson-tools": "^0.2.1",
+    "robust-point-in-polygon": "~1.0.3"
+  }
+}
