@@ -15,7 +15,7 @@ npm install nqm-geojson-tools
 ## usage
  
 ```javascript
-var geoDataInOut = require('nqm-geojson-bbox');
+var geoDataInOut = require('nqm-geojson-tools');
 
 ...........................................
 
